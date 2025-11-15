@@ -2,7 +2,9 @@
 
 def solve():
 # Ниже пишите решение задачи
-     
+     b = input()
+     a = input()
+     print(a == "awesome" or b == "awesome")
 
 # Код ниже не трогать! он нужен для тестов
 if __name__ == "__main__":
